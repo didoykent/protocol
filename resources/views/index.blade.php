@@ -23,6 +23,8 @@
 
 
 <div class = "container">
+  <h1>Randy pinaka gwapo sa mega</h1>
+</br>
   <h2>Product Inventory</h2>
   <div ng-controller="SupplierController">
 
